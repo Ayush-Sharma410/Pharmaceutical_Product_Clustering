@@ -1,6 +1,6 @@
 # Project Name
 
-Clustered Data - Pharmaceutical Product Clustering
+Pharmaceutical Product Clustering
 
 ## Project Overview
 
